@@ -1,4 +1,3 @@
-
 import model from "./model.js";
 import courseModel from "../Courses/model.js";
 import mongoose from "mongoose";
